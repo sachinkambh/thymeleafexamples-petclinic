@@ -5,3 +5,4 @@ Welcome
 Verygood
 ok ok ok
 testing jenkins build
+checking jeknis package build and deployment
